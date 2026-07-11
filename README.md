@@ -52,9 +52,9 @@ Frontend : https://car-catalog-my-garage-frontend.vercel.app/login
 Backend : https://car-catalog-my-garage-backend.vercel.app/
 ### Clone the Repository
 ```bash
-git clone https://github.com/satyamjaysawal/CarCatalog_MyGarage-backend.git
+git clone https://github.com/shivamjaiswal/CarCatalog_MyGarage-backend.git
 
-git clone https://github.com/satyamjaysawal/CarCatalog_MyGarage-Frontend.git
+git clone https://github.com/shivamjaiswal/CarCatalog_MyGarage-Frontend.git
 cd car-management-app
 ```
 
